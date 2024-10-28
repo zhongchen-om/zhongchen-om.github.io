@@ -1,12 +1,41 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+
+### University of Electronic Science and Technology of China
+
+ - 2024-2025 Fall  
+	- Professional Writing and Oral Expression (Undergraduate)
+
+--------------------------------------------------------------------------------------------
+
+### East China Normal University
+
+ - 2023-2024 Fall  
+	- Linear Algebra (Undergraduate)  
+	- Operations Management (Undergraduate)
+    
+ - 2022-2023 Spring 
+	- Machine Learning (Undergraduate)   
+    
+- 2022-2023 Fall       
+	- Linear Algebra (Undergraduate)   
+	- Operations Management (Undergraduate)   
+
+- 2021-2022 Spring 
+	-  Operations Management (Undergraduate)
+    
+- 2021-2022 Fall    
+	- Linear Algebra (Undergraduate)   
+	- Business Analytics and Decision Making (Undergraduate)   
+           
+
+
+

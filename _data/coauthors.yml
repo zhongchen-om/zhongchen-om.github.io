@@ -1,14 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"kouvelis":
+  - firstname: ["Panos"]
+    url: https://www.panoskouvelis.info
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"levi":
+  - firstname: ["Retsef"]
+    url: https://mitsloan.mit.edu/faculty/directory/retsef-levi
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"bolandifar":
+  - firstname: ["Ehsan"]
+    url: https://english.phbs.pku.edu.cn/2019/fulltime_1213/129.html
+
+
+"zhou":
+  - firstname: ["Weihua"]
+    url: https://person.zju.edu.cn/en/whzhou
+
+"peng":
+  - firstname: ["Xiaosong (David)"]
+    url: https://business.lehigh.edu/directory/xiaosong-david-peng
+
+"yang":
+  - firstname: ["Jinxin"]
+    url: https://isca.dufe.edu.cn/content_85715.html
 
 "bach":
   - firstname: ["Johann Sebastian", "J. S."]
@@ -17,17 +30,17 @@
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"zhao":
+  - firstname: ["Xiande"]
+    url: https://www.ceibs.edu/zhao-xiande
 
 "schrodinger":
   - firstname: ["Erwin"]
     url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"zhu":
+  - firstname: ["Kaijie"]
+    url: https://www.bschool.cuhk.edu.hk/staff/zhu-kaijie/
 
 "planck":
   - firstname: ["Max"]

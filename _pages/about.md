@@ -1,25 +1,26 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Associate Professor of Management Science and E-Commerce <br> School of Management and Economics, University of Electronic Science and Technology of China (UESTC) #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_zhong.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room C542, School of Management and Economics,</p>
+    <p>No.2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, China</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-这儿更改了. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Zhong Chen's research focuses on developing stylized game-theoretical models to address problems in Operations Management (OM). His work spans various topics, including the intersection of OM with Marketing and Finance (e.g., retail channel co-opetition, innovative funding methods), operations of multi-sided platforms, and sustainability issues such as safety in agricultural supply chains and the deterrence of counterfeiting. Additionally, Zhong is interested in conducting empirical analyses on business panel data to validate the findings of these theoretical models.
+
+Before joining UESTC, Zhong worked as a postdoctoral researcher at Zhejiang University and served as an assistant professor at East China Normal University. His research has been published in leading journals, including *Manufacturing and Servicing Operations Management*, *Production and Operations Management*, *European Journal of Operational Research*, and *Omega*.
+
